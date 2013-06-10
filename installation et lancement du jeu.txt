@@ -1,6 +1,6 @@
 procédure à suivre :
 
-1) copier le fichier translations.txt et DBOCOM Language Patcher.exe dans le dossier du jeu
+1) décompresser le fichier translations.zip et copier DBOCOM Language Patcher.exe dans le dossier du jeu
 
 par défaut:
 Pour la version Coréene: C:\Netmarble\DBO
