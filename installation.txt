@@ -1,0 +1,18 @@
+procédure à suivre :
+
+1) copier le fichier translations.txt et DBOCOM Language Patcher.exe dans le dossier du jeu
+
+par défaut:
+Pour la version Coréene: C:\Netmarble\DBO
+Pour la version Taiwan: C:\Program Files (x86)\DBO_CT_TW
+Pour la version Hong-Kong: C:\Game\DBO_CT_HW
+
+2) lancer le jeu
+
+3) cliquer sur le 1er bouton en partant du haut à droite (sur la partie verticale droite de la fenêtre)
+
+http://4.bp.blogspot.com/-m8_rehlU5Qc/UQv1xOCT9QI/AAAAAAAAAIc/-vroKoDwWbk/s1600/Sans+titre.png
+
+4) lancer DBOCOM Language Patcher.exe et cocher uniquement "fix game bugs" puis cliquer sur "patch game", une fois terminé fermer ce logiciel
+
+5) lancez le jeu
